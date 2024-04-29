@@ -1,0 +1,6 @@
+This is a testing file
+features list
+create cate 
+create subcate
+create brand
+create product
